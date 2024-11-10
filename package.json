@@ -11,6 +11,9 @@
   "dependencies": {
     "prop-types": "^15.6.2"
   },
+  "peerDependencies": {
+    "deprecated-react-native-prop-types": "^5.0.0"
+  },
   "devDependencies": {
     "@babel/runtime": "^7.3.1",
     "@commitlint/cli": "^9.1.2",
